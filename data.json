@@ -1,0 +1,5183 @@
+[
+	{
+		"name": "hash",
+		"unicodes": [
+			"U+0023",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "zero",
+		"unicodes": [
+			"U+0030",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "one",
+		"unicodes": [
+			"U+0031",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "two",
+		"unicodes": [
+			"U+0032",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "three",
+		"unicodes": [
+			"U+0033",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "four",
+		"unicodes": [
+			"U+0034",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "five",
+		"unicodes": [
+			"U+0035",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "six",
+		"unicodes": [
+			"U+0036",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "seven",
+		"unicodes": [
+			"U+0037",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "eight",
+		"unicodes": [
+			"U+0038",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "nine",
+		"unicodes": [
+			"U+0039",
+			"U+20E3"
+		]
+	},
+	{
+		"name": "copyright",
+		"unicodes": [
+			"U+00A9"
+		]
+	},
+	{
+		"name": "registered",
+		"unicodes": [
+			"U+00AE"
+		]
+	},
+	{
+		"name": "U+2002",
+		"unicodes": [
+			"U+2002"
+		]
+	},
+	{
+		"name": "U+2003",
+		"unicodes": [
+			"U+2003"
+		]
+	},
+	{
+		"name": "U+2005",
+		"unicodes": [
+			"U+2005"
+		]
+	},
+	{
+		"name": "bangbang",
+		"unicodes": [
+			"U+203C"
+		]
+	},
+	{
+		"name": "interrobang",
+		"unicodes": [
+			"U+2049"
+		]
+	},
+	{
+		"name": "tm",
+		"unicodes": [
+			"U+2122"
+		]
+	},
+	{
+		"name": "information_source",
+		"unicodes": [
+			"U+2139"
+		]
+	},
+	{
+		"name": "left_right_arrow",
+		"unicodes": [
+			"U+2194"
+		]
+	},
+	{
+		"name": "arrow_up_down",
+		"unicodes": [
+			"U+2195"
+		]
+	},
+	{
+		"name": "arrow_upper_left",
+		"unicodes": [
+			"U+2196"
+		]
+	},
+	{
+		"name": "arrow_upper_right",
+		"unicodes": [
+			"U+2197"
+		]
+	},
+	{
+		"name": "arrow_lower_right",
+		"unicodes": [
+			"U+2198"
+		]
+	},
+	{
+		"name": "arrow_lower_left",
+		"unicodes": [
+			"U+2199"
+		]
+	},
+	{
+		"name": "leftwards_arrow_with_hook",
+		"unicodes": [
+			"U+21A9"
+		]
+	},
+	{
+		"name": "arrow_right_hook",
+		"unicodes": [
+			"U+21AA"
+		]
+	},
+	{
+		"name": "watch",
+		"unicodes": [
+			"U+231A"
+		]
+	},
+	{
+		"name": "hourglass",
+		"unicodes": [
+			"U+231B"
+		]
+	},
+	{
+		"name": "fast_forward",
+		"unicodes": [
+			"U+23E9"
+		]
+	},
+	{
+		"name": "rewind",
+		"unicodes": [
+			"U+23EA"
+		]
+	},
+	{
+		"name": "arrow_double_up",
+		"unicodes": [
+			"U+23EB"
+		]
+	},
+	{
+		"name": "arrow_double_down",
+		"unicodes": [
+			"U+23EC"
+		]
+	},
+	{
+		"name": "alarm_clock",
+		"unicodes": [
+			"U+23F0"
+		]
+	},
+	{
+		"name": "hourglass_flowing_sand",
+		"unicodes": [
+			"U+23F3"
+		]
+	},
+	{
+		"name": "m",
+		"unicodes": [
+			"U+24C2"
+		]
+	},
+	{
+		"name": "black_small_square",
+		"unicodes": [
+			"U+25AA"
+		]
+	},
+	{
+		"name": "white_small_square",
+		"unicodes": [
+			"U+25AB"
+		]
+	},
+	{
+		"name": "arrow_forward",
+		"unicodes": [
+			"U+25B6"
+		]
+	},
+	{
+		"name": "arrow_backward",
+		"unicodes": [
+			"U+25C0"
+		]
+	},
+	{
+		"name": "white_medium_square",
+		"unicodes": [
+			"U+25FB"
+		]
+	},
+	{
+		"name": "black_medium_square",
+		"unicodes": [
+			"U+25FC"
+		]
+	},
+	{
+		"name": "white_medium_small_square",
+		"unicodes": [
+			"U+25FD"
+		]
+	},
+	{
+		"name": "black_medium_small_square",
+		"unicodes": [
+			"U+25FE"
+		]
+	},
+	{
+		"name": "sunny",
+		"unicodes": [
+			"U+2600"
+		]
+	},
+	{
+		"name": "cloud",
+		"unicodes": [
+			"U+2601"
+		]
+	},
+	{
+		"name": "telephone",
+		"unicodes": [
+			"U+260E"
+		]
+	},
+	{
+		"name": "ballot_box_with_check",
+		"unicodes": [
+			"U+2611"
+		]
+	},
+	{
+		"name": "umbrella",
+		"unicodes": [
+			"U+2614"
+		]
+	},
+	{
+		"name": "coffee",
+		"unicodes": [
+			"U+2615"
+		]
+	},
+	{
+		"name": "point_up",
+		"unicodes": [
+			"U+261D"
+		]
+	},
+	{
+		"name": "relaxed",
+		"unicodes": [
+			"U+263A"
+		]
+	},
+	{
+		"name": "aries",
+		"unicodes": [
+			"U+2648"
+		]
+	},
+	{
+		"name": "taurus",
+		"unicodes": [
+			"U+2649"
+		]
+	},
+	{
+		"name": "gemini",
+		"unicodes": [
+			"U+264A"
+		]
+	},
+	{
+		"name": "cancer",
+		"unicodes": [
+			"U+264B"
+		]
+	},
+	{
+		"name": "leo",
+		"unicodes": [
+			"U+264C"
+		]
+	},
+	{
+		"name": "virgo",
+		"unicodes": [
+			"U+264D"
+		]
+	},
+	{
+		"name": "libra",
+		"unicodes": [
+			"U+264E"
+		]
+	},
+	{
+		"name": "scorpius",
+		"unicodes": [
+			"U+264F"
+		]
+	},
+	{
+		"name": "sagittarius",
+		"unicodes": [
+			"U+2650"
+		]
+	},
+	{
+		"name": "capricorn",
+		"unicodes": [
+			"U+2651"
+		]
+	},
+	{
+		"name": "aquarius",
+		"unicodes": [
+			"U+2652"
+		]
+	},
+	{
+		"name": "pisces",
+		"unicodes": [
+			"U+2653"
+		]
+	},
+	{
+		"name": "spades",
+		"unicodes": [
+			"U+2660"
+		]
+	},
+	{
+		"name": "clubs",
+		"unicodes": [
+			"U+2663"
+		]
+	},
+	{
+		"name": "hearts",
+		"unicodes": [
+			"U+2665"
+		]
+	},
+	{
+		"name": "diamonds",
+		"unicodes": [
+			"U+2666"
+		]
+	},
+	{
+		"name": "hotsprings",
+		"unicodes": [
+			"U+2668"
+		]
+	},
+	{
+		"name": "recycle",
+		"unicodes": [
+			"U+267B"
+		]
+	},
+	{
+		"name": "wheelchair",
+		"unicodes": [
+			"U+267F"
+		]
+	},
+	{
+		"name": "anchor",
+		"unicodes": [
+			"U+2693"
+		]
+	},
+	{
+		"name": "warning",
+		"unicodes": [
+			"U+26A0"
+		]
+	},
+	{
+		"name": "zap",
+		"unicodes": [
+			"U+26A1"
+		]
+	},
+	{
+		"name": "white_circle",
+		"unicodes": [
+			"U+26AA"
+		]
+	},
+	{
+		"name": "black_circle",
+		"unicodes": [
+			"U+26AB"
+		]
+	},
+	{
+		"name": "soccer",
+		"unicodes": [
+			"U+26BD"
+		]
+	},
+	{
+		"name": "baseball",
+		"unicodes": [
+			"U+26BE"
+		]
+	},
+	{
+		"name": "snowman",
+		"unicodes": [
+			"U+26C4"
+		]
+	},
+	{
+		"name": "partly_sunny",
+		"unicodes": [
+			"U+26C5"
+		]
+	},
+	{
+		"name": "ophiuchus",
+		"unicodes": [
+			"U+26CE"
+		]
+	},
+	{
+		"name": "no_entry",
+		"unicodes": [
+			"U+26D4"
+		]
+	},
+	{
+		"name": "church",
+		"unicodes": [
+			"U+26EA"
+		]
+	},
+	{
+		"name": "fountain",
+		"unicodes": [
+			"U+26F2"
+		]
+	},
+	{
+		"name": "golf",
+		"unicodes": [
+			"U+26F3"
+		]
+	},
+	{
+		"name": "sailboat",
+		"unicodes": [
+			"U+26F5"
+		]
+	},
+	{
+		"name": "tent",
+		"unicodes": [
+			"U+26FA"
+		]
+	},
+	{
+		"name": "fuelpump",
+		"unicodes": [
+			"U+26FD"
+		]
+	},
+	{
+		"name": "scissors",
+		"unicodes": [
+			"U+2702"
+		]
+	},
+	{
+		"name": "white_check_mark",
+		"unicodes": [
+			"U+2705"
+		]
+	},
+	{
+		"name": "airplane",
+		"unicodes": [
+			"U+2708"
+		]
+	},
+	{
+		"name": "envelope",
+		"unicodes": [
+			"U+2709"
+		]
+	},
+	{
+		"name": "fist",
+		"unicodes": [
+			"U+270A"
+		]
+	},
+	{
+		"name": "raised_hand",
+		"unicodes": [
+			"U+270B"
+		]
+	},
+	{
+		"name": "v",
+		"unicodes": [
+			"U+270C"
+		]
+	},
+	{
+		"name": "pencil2",
+		"unicodes": [
+			"U+270F"
+		]
+	},
+	{
+		"name": "black_nib",
+		"unicodes": [
+			"U+2712"
+		]
+	},
+	{
+		"name": "heavy_check_mark",
+		"unicodes": [
+			"U+2714"
+		]
+	},
+	{
+		"name": "heavy_multiplication_x",
+		"unicodes": [
+			"U+2716"
+		]
+	},
+	{
+		"name": "sparkles",
+		"unicodes": [
+			"U+2728"
+		]
+	},
+	{
+		"name": "eight_spoked_asterisk",
+		"unicodes": [
+			"U+2733"
+		]
+	},
+	{
+		"name": "eight_pointed_black_star",
+		"unicodes": [
+			"U+2734"
+		]
+	},
+	{
+		"name": "snowflake",
+		"unicodes": [
+			"U+2744"
+		]
+	},
+	{
+		"name": "sparkle",
+		"unicodes": [
+			"U+2747"
+		]
+	},
+	{
+		"name": "x",
+		"unicodes": [
+			"U+274C"
+		]
+	},
+	{
+		"name": "negative_squared_cross_mark",
+		"unicodes": [
+			"U+274E"
+		]
+	},
+	{
+		"name": "question",
+		"unicodes": [
+			"U+2753"
+		]
+	},
+	{
+		"name": "grey_question",
+		"unicodes": [
+			"U+2754"
+		]
+	},
+	{
+		"name": "grey_exclamation",
+		"unicodes": [
+			"U+2755"
+		]
+	},
+	{
+		"name": "exclamation",
+		"unicodes": [
+			"U+2757"
+		]
+	},
+	{
+		"name": "heart",
+		"unicodes": [
+			"U+2764"
+		]
+	},
+	{
+		"name": "heavy_plus_sign",
+		"unicodes": [
+			"U+2795"
+		]
+	},
+	{
+		"name": "heavy_minus_sign",
+		"unicodes": [
+			"U+2796"
+		]
+	},
+	{
+		"name": "heavy_division_sign",
+		"unicodes": [
+			"U+2797"
+		]
+	},
+	{
+		"name": "arrow_right",
+		"unicodes": [
+			"U+27A1"
+		]
+	},
+	{
+		"name": "curly_loop",
+		"unicodes": [
+			"U+27B0"
+		]
+	},
+	{
+		"name": "arrow_heading_up",
+		"unicodes": [
+			"U+2934"
+		]
+	},
+	{
+		"name": "arrow_heading_down",
+		"unicodes": [
+			"U+2935"
+		]
+	},
+	{
+		"name": "arrow_left",
+		"unicodes": [
+			"U+2B05"
+		]
+	},
+	{
+		"name": "arrow_up",
+		"unicodes": [
+			"U+2B06"
+		]
+	},
+	{
+		"name": "arrow_down",
+		"unicodes": [
+			"U+2B07"
+		]
+	},
+	{
+		"name": "black_large_square",
+		"unicodes": [
+			"U+2B1B"
+		]
+	},
+	{
+		"name": "white_large_square",
+		"unicodes": [
+			"U+2B1C"
+		]
+	},
+	{
+		"name": "star",
+		"unicodes": [
+			"U+2B50"
+		]
+	},
+	{
+		"name": "o",
+		"unicodes": [
+			"U+2B55"
+		]
+	},
+	{
+		"name": "wavy_dash",
+		"unicodes": [
+			"U+3030"
+		]
+	},
+	{
+		"name": "part_alternation_mark",
+		"unicodes": [
+			"U+303D"
+		]
+	},
+	{
+		"name": "congratulations",
+		"unicodes": [
+			"U+3297"
+		]
+	},
+	{
+		"name": "secret",
+		"unicodes": [
+			"U+3299"
+		]
+	},
+	{
+		"name": "mahjong",
+		"unicodes": [
+			"U+1F004"
+		]
+	},
+	{
+		"name": "black_joker",
+		"unicodes": [
+			"U+1F0CF"
+		]
+	},
+	{
+		"name": "a",
+		"unicodes": [
+			"U+1F170"
+		]
+	},
+	{
+		"name": "b",
+		"unicodes": [
+			"U+1F171"
+		]
+	},
+	{
+		"name": "o2",
+		"unicodes": [
+			"U+1F17E"
+		]
+	},
+	{
+		"name": "parking",
+		"unicodes": [
+			"U+1F17F"
+		]
+	},
+	{
+		"name": "ab",
+		"unicodes": [
+			"U+1F18E"
+		]
+	},
+	{
+		"name": "cl",
+		"unicodes": [
+			"U+1F191"
+		]
+	},
+	{
+		"name": "cool",
+		"unicodes": [
+			"U+1F192"
+		]
+	},
+	{
+		"name": "free",
+		"unicodes": [
+			"U+1F193"
+		]
+	},
+	{
+		"name": "id",
+		"unicodes": [
+			"U+1F194"
+		]
+	},
+	{
+		"name": "new",
+		"unicodes": [
+			"U+1F195"
+		]
+	},
+	{
+		"name": "ng",
+		"unicodes": [
+			"U+1F196"
+		]
+	},
+	{
+		"name": "ok",
+		"unicodes": [
+			"U+1F197"
+		]
+	},
+	{
+		"name": "sos",
+		"unicodes": [
+			"U+1F198"
+		]
+	},
+	{
+		"name": "up",
+		"unicodes": [
+			"U+1F199"
+		]
+	},
+	{
+		"name": "vs",
+		"unicodes": [
+			"U+1F19A"
+		]
+	},
+	{
+		"name": "cn",
+		"unicodes": [
+			"U+1F1E8",
+			"U+1F1F3"
+		]
+	},
+	{
+		"name": "de",
+		"unicodes": [
+			"U+1F1E9",
+			"U+1F1EA"
+		]
+	},
+	{
+		"name": "es",
+		"unicodes": [
+			"U+1F1EA",
+			"U+1F1F8"
+		]
+	},
+	{
+		"name": "fr",
+		"unicodes": [
+			"U+1F1EB",
+			"U+1F1F7"
+		]
+	},
+	{
+		"name": "uk",
+		"unicodes": [
+			"U+1F1EC",
+			"U+1F1E7"
+		]
+	},
+	{
+		"name": "it",
+		"unicodes": [
+			"U+1F1EE",
+			"U+1F1F9"
+		]
+	},
+	{
+		"name": "jp",
+		"unicodes": [
+			"U+1F1EF",
+			"U+1F1F5"
+		]
+	},
+	{
+		"name": "kr",
+		"unicodes": [
+			"U+1F1F0",
+			"U+1F1F7"
+		]
+	},
+	{
+		"name": "ru",
+		"unicodes": [
+			"U+1F1F7",
+			"U+1F1FA"
+		]
+	},
+	{
+		"name": "us",
+		"unicodes": [
+			"U+1F1FA",
+			"U+1F1F8"
+		]
+	},
+	{
+		"name": "koko",
+		"unicodes": [
+			"U+1F201"
+		]
+	},
+	{
+		"name": "sa",
+		"unicodes": [
+			"U+1F202"
+		]
+	},
+	{
+		"name": "u7121",
+		"unicodes": [
+			"U+1F21A"
+		]
+	},
+	{
+		"name": "u6307",
+		"unicodes": [
+			"U+1F22F"
+		]
+	},
+	{
+		"name": "u7981",
+		"unicodes": [
+			"U+1F232"
+		]
+	},
+	{
+		"name": "u7a7a",
+		"unicodes": [
+			"U+1F233"
+		]
+	},
+	{
+		"name": "u5408",
+		"unicodes": [
+			"U+1F234"
+		]
+	},
+	{
+		"name": "u6e80",
+		"unicodes": [
+			"U+1F235"
+		]
+	},
+	{
+		"name": "u6709",
+		"unicodes": [
+			"U+1F236"
+		]
+	},
+	{
+		"name": "u6708",
+		"unicodes": [
+			"U+1F237"
+		]
+	},
+	{
+		"name": "u7533",
+		"unicodes": [
+			"U+1F238"
+		]
+	},
+	{
+		"name": "u5272",
+		"unicodes": [
+			"U+1F239"
+		]
+	},
+	{
+		"name": "u55b6",
+		"unicodes": [
+			"U+1F23A"
+		]
+	},
+	{
+		"name": "ideograph_advantage",
+		"unicodes": [
+			"U+1F250"
+		]
+	},
+	{
+		"name": "accept",
+		"unicodes": [
+			"U+1F251"
+		]
+	},
+	{
+		"name": "cyclone",
+		"unicodes": [
+			"U+1F300"
+		]
+	},
+	{
+		"name": "foggy",
+		"unicodes": [
+			"U+1F301"
+		]
+	},
+	{
+		"name": "closed_umbrella",
+		"unicodes": [
+			"U+1F302"
+		]
+	},
+	{
+		"name": "night_with_stars",
+		"unicodes": [
+			"U+1F303"
+		]
+	},
+	{
+		"name": "sunrise_over_mountains",
+		"unicodes": [
+			"U+1F304"
+		]
+	},
+	{
+		"name": "sunrise",
+		"unicodes": [
+			"U+1F305"
+		]
+	},
+	{
+		"name": "city_sunset",
+		"unicodes": [
+			"U+1F306"
+		]
+	},
+	{
+		"name": "city_sunrise",
+		"unicodes": [
+			"U+1F307"
+		]
+	},
+	{
+		"name": "rainbow",
+		"unicodes": [
+			"U+1F308"
+		]
+	},
+	{
+		"name": "bridge_at_night",
+		"unicodes": [
+			"U+1F309"
+		]
+	},
+	{
+		"name": "ocean",
+		"unicodes": [
+			"U+1F30A"
+		]
+	},
+	{
+		"name": "volcano",
+		"unicodes": [
+			"U+1F30B"
+		]
+	},
+	{
+		"name": "milky_way",
+		"unicodes": [
+			"U+1F30C"
+		]
+	},
+	{
+		"name": "earth_asia",
+		"unicodes": [
+			"U+1F30F"
+		]
+	},
+	{
+		"name": "new_moon",
+		"unicodes": [
+			"U+1F311"
+		]
+	},
+	{
+		"name": "first_quarter_moon",
+		"unicodes": [
+			"U+1F313"
+		]
+	},
+	{
+		"name": "waxing_gibbous_moon",
+		"unicodes": [
+			"U+1F314"
+		]
+	},
+	{
+		"name": "full_moon",
+		"unicodes": [
+			"U+1F315"
+		]
+	},
+	{
+		"name": "crescent_moon",
+		"unicodes": [
+			"U+1F319"
+		]
+	},
+	{
+		"name": "first_quarter_moon_with_face",
+		"unicodes": [
+			"U+1F31B"
+		]
+	},
+	{
+		"name": "star2",
+		"unicodes": [
+			"U+1F31F"
+		]
+	},
+	{
+		"name": "stars",
+		"unicodes": [
+			"U+1F320"
+		]
+	},
+	{
+		"name": "chestnut",
+		"unicodes": [
+			"U+1F330"
+		]
+	},
+	{
+		"name": "seedling",
+		"unicodes": [
+			"U+1F331"
+		]
+	},
+	{
+		"name": "palm_tree",
+		"unicodes": [
+			"U+1F334"
+		]
+	},
+	{
+		"name": "cactus",
+		"unicodes": [
+			"U+1F335"
+		]
+	},
+	{
+		"name": "tulip",
+		"unicodes": [
+			"U+1F337"
+		]
+	},
+	{
+		"name": "cherry_blossom",
+		"unicodes": [
+			"U+1F338"
+		]
+	},
+	{
+		"name": "rose",
+		"unicodes": [
+			"U+1F339"
+		]
+	},
+	{
+		"name": "hibiscus",
+		"unicodes": [
+			"U+1F33A"
+		]
+	},
+	{
+		"name": "sunflower",
+		"unicodes": [
+			"U+1F33B"
+		]
+	},
+	{
+		"name": "blossom",
+		"unicodes": [
+			"U+1F33C"
+		]
+	},
+	{
+		"name": "corn",
+		"unicodes": [
+			"U+1F33D"
+		]
+	},
+	{
+		"name": "ear_of_rice",
+		"unicodes": [
+			"U+1F33E"
+		]
+	},
+	{
+		"name": "herb",
+		"unicodes": [
+			"U+1F33F"
+		]
+	},
+	{
+		"name": "four_leaf_clover",
+		"unicodes": [
+			"U+1F340"
+		]
+	},
+	{
+		"name": "maple_leaf",
+		"unicodes": [
+			"U+1F341"
+		]
+	},
+	{
+		"name": "fallen_leaf",
+		"unicodes": [
+			"U+1F342"
+		]
+	},
+	{
+		"name": "leaves",
+		"unicodes": [
+			"U+1F343"
+		]
+	},
+	{
+		"name": "mushroom",
+		"unicodes": [
+			"U+1F344"
+		]
+	},
+	{
+		"name": "tomato",
+		"unicodes": [
+			"U+1F345"
+		]
+	},
+	{
+		"name": "eggplant",
+		"unicodes": [
+			"U+1F346"
+		]
+	},
+	{
+		"name": "grapes",
+		"unicodes": [
+			"U+1F347"
+		]
+	},
+	{
+		"name": "melon",
+		"unicodes": [
+			"U+1F348"
+		]
+	},
+	{
+		"name": "watermelon",
+		"unicodes": [
+			"U+1F349"
+		]
+	},
+	{
+		"name": "tangerine",
+		"unicodes": [
+			"U+1F34A"
+		]
+	},
+	{
+		"name": "banana",
+		"unicodes": [
+			"U+1F34C"
+		]
+	},
+	{
+		"name": "pineapple",
+		"unicodes": [
+			"U+1F34D"
+		]
+	},
+	{
+		"name": "apple",
+		"unicodes": [
+			"U+1F34E"
+		]
+	},
+	{
+		"name": "green_apple",
+		"unicodes": [
+			"U+1F34F"
+		]
+	},
+	{
+		"name": "peach",
+		"unicodes": [
+			"U+1F351"
+		]
+	},
+	{
+		"name": "cherries",
+		"unicodes": [
+			"U+1F352"
+		]
+	},
+	{
+		"name": "strawberry",
+		"unicodes": [
+			"U+1F353"
+		]
+	},
+	{
+		"name": "hamburger",
+		"unicodes": [
+			"U+1F354"
+		]
+	},
+	{
+		"name": "pizza",
+		"unicodes": [
+			"U+1F355"
+		]
+	},
+	{
+		"name": "meat_on_bone",
+		"unicodes": [
+			"U+1F356"
+		]
+	},
+	{
+		"name": "poultry_leg",
+		"unicodes": [
+			"U+1F357"
+		]
+	},
+	{
+		"name": "rice_cracker",
+		"unicodes": [
+			"U+1F358"
+		]
+	},
+	{
+		"name": "rice_ball",
+		"unicodes": [
+			"U+1F359"
+		]
+	},
+	{
+		"name": "rice",
+		"unicodes": [
+			"U+1F35A"
+		]
+	},
+	{
+		"name": "curry",
+		"unicodes": [
+			"U+1F35B"
+		]
+	},
+	{
+		"name": "ramen",
+		"unicodes": [
+			"U+1F35C"
+		]
+	},
+	{
+		"name": "spaghetti",
+		"unicodes": [
+			"U+1F35D"
+		]
+	},
+	{
+		"name": "bread",
+		"unicodes": [
+			"U+1F35E"
+		]
+	},
+	{
+		"name": "fries",
+		"unicodes": [
+			"U+1F35F"
+		]
+	},
+	{
+		"name": "sweet_potato",
+		"unicodes": [
+			"U+1F360"
+		]
+	},
+	{
+		"name": "dango",
+		"unicodes": [
+			"U+1F361"
+		]
+	},
+	{
+		"name": "oden",
+		"unicodes": [
+			"U+1F362"
+		]
+	},
+	{
+		"name": "sushi",
+		"unicodes": [
+			"U+1F363"
+		]
+	},
+	{
+		"name": "fried_shrimp",
+		"unicodes": [
+			"U+1F364"
+		]
+	},
+	{
+		"name": "fish_cake",
+		"unicodes": [
+			"U+1F365"
+		]
+	},
+	{
+		"name": "icecream",
+		"unicodes": [
+			"U+1F366"
+		]
+	},
+	{
+		"name": "shaved_ice",
+		"unicodes": [
+			"U+1F367"
+		]
+	},
+	{
+		"name": "ice_cream",
+		"unicodes": [
+			"U+1F368"
+		]
+	},
+	{
+		"name": "doughnut",
+		"unicodes": [
+			"U+1F369"
+		]
+	},
+	{
+		"name": "cookie",
+		"unicodes": [
+			"U+1F36A"
+		]
+	},
+	{
+		"name": "chocolate_bar",
+		"unicodes": [
+			"U+1F36B"
+		]
+	},
+	{
+		"name": "candy",
+		"unicodes": [
+			"U+1F36C"
+		]
+	},
+	{
+		"name": "lollipop",
+		"unicodes": [
+			"U+1F36D"
+		]
+	},
+	{
+		"name": "custard",
+		"unicodes": [
+			"U+1F36E"
+		]
+	},
+	{
+		"name": "honey_pot",
+		"unicodes": [
+			"U+1F36F"
+		]
+	},
+	{
+		"name": "cake",
+		"unicodes": [
+			"U+1F370"
+		]
+	},
+	{
+		"name": "bento",
+		"unicodes": [
+			"U+1F371"
+		]
+	},
+	{
+		"name": "stew",
+		"unicodes": [
+			"U+1F372"
+		]
+	},
+	{
+		"name": "egg",
+		"unicodes": [
+			"U+1F373"
+		]
+	},
+	{
+		"name": "fork_and_knife",
+		"unicodes": [
+			"U+1F374"
+		]
+	},
+	{
+		"name": "tea",
+		"unicodes": [
+			"U+1F375"
+		]
+	},
+	{
+		"name": "sake",
+		"unicodes": [
+			"U+1F376"
+		]
+	},
+	{
+		"name": "wine_glass",
+		"unicodes": [
+			"U+1F377"
+		]
+	},
+	{
+		"name": "cocktail",
+		"unicodes": [
+			"U+1F378"
+		]
+	},
+	{
+		"name": "tropical_drink",
+		"unicodes": [
+			"U+1F379"
+		]
+	},
+	{
+		"name": "beer",
+		"unicodes": [
+			"U+1F37A"
+		]
+	},
+	{
+		"name": "beers",
+		"unicodes": [
+			"U+1F37B"
+		]
+	},
+	{
+		"name": "ribbon",
+		"unicodes": [
+			"U+1F380"
+		]
+	},
+	{
+		"name": "gift",
+		"unicodes": [
+			"U+1F381"
+		]
+	},
+	{
+		"name": "birthday",
+		"unicodes": [
+			"U+1F382"
+		]
+	},
+	{
+		"name": "jack_o_lantern",
+		"unicodes": [
+			"U+1F383"
+		]
+	},
+	{
+		"name": "christmas_tree",
+		"unicodes": [
+			"U+1F384"
+		]
+	},
+	{
+		"name": "santa",
+		"unicodes": [
+			"U+1F385"
+		]
+	},
+	{
+		"name": "fireworks",
+		"unicodes": [
+			"U+1F386"
+		]
+	},
+	{
+		"name": "sparkler",
+		"unicodes": [
+			"U+1F387"
+		]
+	},
+	{
+		"name": "balloon",
+		"unicodes": [
+			"U+1F388"
+		]
+	},
+	{
+		"name": "tada",
+		"unicodes": [
+			"U+1F389"
+		]
+	},
+	{
+		"name": "confetti_ball",
+		"unicodes": [
+			"U+1F38A"
+		]
+	},
+	{
+		"name": "tanabata_tree",
+		"unicodes": [
+			"U+1F38B"
+		]
+	},
+	{
+		"name": "crossed_flags",
+		"unicodes": [
+			"U+1F38C"
+		]
+	},
+	{
+		"name": "bamboo",
+		"unicodes": [
+			"U+1F38D"
+		]
+	},
+	{
+		"name": "dolls",
+		"unicodes": [
+			"U+1F38E"
+		]
+	},
+	{
+		"name": "flags",
+		"unicodes": [
+			"U+1F38F"
+		]
+	},
+	{
+		"name": "wind_chime",
+		"unicodes": [
+			"U+1F390"
+		]
+	},
+	{
+		"name": "rice_scene",
+		"unicodes": [
+			"U+1F391"
+		]
+	},
+	{
+		"name": "school_satchel",
+		"unicodes": [
+			"U+1F392"
+		]
+	},
+	{
+		"name": "mortar_board",
+		"unicodes": [
+			"U+1F393"
+		]
+	},
+	{
+		"name": "carousel_horse",
+		"unicodes": [
+			"U+1F3A0"
+		]
+	},
+	{
+		"name": "ferris_wheel",
+		"unicodes": [
+			"U+1F3A1"
+		]
+	},
+	{
+		"name": "roller_coaster",
+		"unicodes": [
+			"U+1F3A2"
+		]
+	},
+	{
+		"name": "fishing_pole_and_fish",
+		"unicodes": [
+			"U+1F3A3"
+		]
+	},
+	{
+		"name": "microphone",
+		"unicodes": [
+			"U+1F3A4"
+		]
+	},
+	{
+		"name": "movie_camera",
+		"unicodes": [
+			"U+1F3A5"
+		]
+	},
+	{
+		"name": "cinema",
+		"unicodes": [
+			"U+1F3A6"
+		]
+	},
+	{
+		"name": "headphones",
+		"unicodes": [
+			"U+1F3A7"
+		]
+	},
+	{
+		"name": "art",
+		"unicodes": [
+			"U+1F3A8"
+		]
+	},
+	{
+		"name": "tophat",
+		"unicodes": [
+			"U+1F3A9"
+		]
+	},
+	{
+		"name": "circus_tent",
+		"unicodes": [
+			"U+1F3AA"
+		]
+	},
+	{
+		"name": "ticket",
+		"unicodes": [
+			"U+1F3AB"
+		]
+	},
+	{
+		"name": "clapper",
+		"unicodes": [
+			"U+1F3AC"
+		]
+	},
+	{
+		"name": "performing_arts",
+		"unicodes": [
+			"U+1F3AD"
+		]
+	},
+	{
+		"name": "video_game",
+		"unicodes": [
+			"U+1F3AE"
+		]
+	},
+	{
+		"name": "dart",
+		"unicodes": [
+			"U+1F3AF"
+		]
+	},
+	{
+		"name": "slot_machine",
+		"unicodes": [
+			"U+1F3B0"
+		]
+	},
+	{
+		"name": "8ball",
+		"unicodes": [
+			"U+1F3B1"
+		]
+	},
+	{
+		"name": "game_die",
+		"unicodes": [
+			"U+1F3B2"
+		]
+	},
+	{
+		"name": "bowling",
+		"unicodes": [
+			"U+1F3B3"
+		]
+	},
+	{
+		"name": "flower_playing_cards",
+		"unicodes": [
+			"U+1F3B4"
+		]
+	},
+	{
+		"name": "musical_note",
+		"unicodes": [
+			"U+1F3B5"
+		]
+	},
+	{
+		"name": "notes",
+		"unicodes": [
+			"U+1F3B6"
+		]
+	},
+	{
+		"name": "saxophone",
+		"unicodes": [
+			"U+1F3B7"
+		]
+	},
+	{
+		"name": "guitar",
+		"unicodes": [
+			"U+1F3B8"
+		]
+	},
+	{
+		"name": "musical_keyboard",
+		"unicodes": [
+			"U+1F3B9"
+		]
+	},
+	{
+		"name": "trumpet",
+		"unicodes": [
+			"U+1F3BA"
+		]
+	},
+	{
+		"name": "violin",
+		"unicodes": [
+			"U+1F3BB"
+		]
+	},
+	{
+		"name": "musical_score",
+		"unicodes": [
+			"U+1F3BC"
+		]
+	},
+	{
+		"name": "running_shirt_with_sash",
+		"unicodes": [
+			"U+1F3BD"
+		]
+	},
+	{
+		"name": "tennis",
+		"unicodes": [
+			"U+1F3BE"
+		]
+	},
+	{
+		"name": "ski",
+		"unicodes": [
+			"U+1F3BF"
+		]
+	},
+	{
+		"name": "basketball",
+		"unicodes": [
+			"U+1F3C0"
+		]
+	},
+	{
+		"name": "checkered_flag",
+		"unicodes": [
+			"U+1F3C1"
+		]
+	},
+	{
+		"name": "snowboarder",
+		"unicodes": [
+			"U+1F3C2"
+		]
+	},
+	{
+		"name": "runner",
+		"unicodes": [
+			"U+1F3C3"
+		]
+	},
+	{
+		"name": "surfer",
+		"unicodes": [
+			"U+1F3C4"
+		]
+	},
+	{
+		"name": "trophy",
+		"unicodes": [
+			"U+1F3C6"
+		]
+	},
+	{
+		"name": "football",
+		"unicodes": [
+			"U+1F3C8"
+		]
+	},
+	{
+		"name": "swimmer",
+		"unicodes": [
+			"U+1F3CA"
+		]
+	},
+	{
+		"name": "house",
+		"unicodes": [
+			"U+1F3E0"
+		]
+	},
+	{
+		"name": "house_with_garden",
+		"unicodes": [
+			"U+1F3E1"
+		]
+	},
+	{
+		"name": "office",
+		"unicodes": [
+			"U+1F3E2"
+		]
+	},
+	{
+		"name": "post_office",
+		"unicodes": [
+			"U+1F3E3"
+		]
+	},
+	{
+		"name": "hospital",
+		"unicodes": [
+			"U+1F3E5"
+		]
+	},
+	{
+		"name": "bank",
+		"unicodes": [
+			"U+1F3E6"
+		]
+	},
+	{
+		"name": "atm",
+		"unicodes": [
+			"U+1F3E7"
+		]
+	},
+	{
+		"name": "hotel",
+		"unicodes": [
+			"U+1F3E8"
+		]
+	},
+	{
+		"name": "love_hotel",
+		"unicodes": [
+			"U+1F3E9"
+		]
+	},
+	{
+		"name": "convenience_store",
+		"unicodes": [
+			"U+1F3EA"
+		]
+	},
+	{
+		"name": "school",
+		"unicodes": [
+			"U+1F3EB"
+		]
+	},
+	{
+		"name": "department_store",
+		"unicodes": [
+			"U+1F3EC"
+		]
+	},
+	{
+		"name": "factory",
+		"unicodes": [
+			"U+1F3ED"
+		]
+	},
+	{
+		"name": "izakaya_lantern",
+		"unicodes": [
+			"U+1F3EE"
+		]
+	},
+	{
+		"name": "japanese_castle",
+		"unicodes": [
+			"U+1F3EF"
+		]
+	},
+	{
+		"name": "european_castle",
+		"unicodes": [
+			"U+1F3F0"
+		]
+	},
+	{
+		"name": "snail",
+		"unicodes": [
+			"U+1F40C"
+		]
+	},
+	{
+		"name": "snake",
+		"unicodes": [
+			"U+1F40D"
+		]
+	},
+	{
+		"name": "racehorse",
+		"unicodes": [
+			"U+1F40E"
+		]
+	},
+	{
+		"name": "sheep",
+		"unicodes": [
+			"U+1F411"
+		]
+	},
+	{
+		"name": "monkey",
+		"unicodes": [
+			"U+1F412"
+		]
+	},
+	{
+		"name": "chicken",
+		"unicodes": [
+			"U+1F414"
+		]
+	},
+	{
+		"name": "boar",
+		"unicodes": [
+			"U+1F417"
+		]
+	},
+	{
+		"name": "elephant",
+		"unicodes": [
+			"U+1F418"
+		]
+	},
+	{
+		"name": "octopus",
+		"unicodes": [
+			"U+1F419"
+		]
+	},
+	{
+		"name": "shell",
+		"unicodes": [
+			"U+1F41A"
+		]
+	},
+	{
+		"name": "bug",
+		"unicodes": [
+			"U+1F41B"
+		]
+	},
+	{
+		"name": "ant",
+		"unicodes": [
+			"U+1F41C"
+		]
+	},
+	{
+		"name": "bee",
+		"unicodes": [
+			"U+1F41D"
+		]
+	},
+	{
+		"name": "beetle",
+		"unicodes": [
+			"U+1F41E"
+		]
+	},
+	{
+		"name": "fish",
+		"unicodes": [
+			"U+1F41F"
+		]
+	},
+	{
+		"name": "tropical_fish",
+		"unicodes": [
+			"U+1F420"
+		]
+	},
+	{
+		"name": "blowfish",
+		"unicodes": [
+			"U+1F421"
+		]
+	},
+	{
+		"name": "turtle",
+		"unicodes": [
+			"U+1F422"
+		]
+	},
+	{
+		"name": "hatching_chick",
+		"unicodes": [
+			"U+1F423"
+		]
+	},
+	{
+		"name": "baby_chick",
+		"unicodes": [
+			"U+1F424"
+		]
+	},
+	{
+		"name": "hatched_chick",
+		"unicodes": [
+			"U+1F425"
+		]
+	},
+	{
+		"name": "bird",
+		"unicodes": [
+			"U+1F426"
+		]
+	},
+	{
+		"name": "penguin",
+		"unicodes": [
+			"U+1F427"
+		]
+	},
+	{
+		"name": "koala",
+		"unicodes": [
+			"U+1F428"
+		]
+	},
+	{
+		"name": "poodle",
+		"unicodes": [
+			"U+1F429"
+		]
+	},
+	{
+		"name": "camel",
+		"unicodes": [
+			"U+1F42B"
+		]
+	},
+	{
+		"name": "dolphin",
+		"unicodes": [
+			"U+1F42C"
+		]
+	},
+	{
+		"name": "mouse",
+		"unicodes": [
+			"U+1F42D"
+		]
+	},
+	{
+		"name": "cow",
+		"unicodes": [
+			"U+1F42E"
+		]
+	},
+	{
+		"name": "tiger",
+		"unicodes": [
+			"U+1F42F"
+		]
+	},
+	{
+		"name": "rabbit",
+		"unicodes": [
+			"U+1F430"
+		]
+	},
+	{
+		"name": "cat",
+		"unicodes": [
+			"U+1F431"
+		]
+	},
+	{
+		"name": "dragon_face",
+		"unicodes": [
+			"U+1F432"
+		]
+	},
+	{
+		"name": "whale",
+		"unicodes": [
+			"U+1F433"
+		]
+	},
+	{
+		"name": "horse",
+		"unicodes": [
+			"U+1F434"
+		]
+	},
+	{
+		"name": "monkey_face",
+		"unicodes": [
+			"U+1F435"
+		]
+	},
+	{
+		"name": "dog",
+		"unicodes": [
+			"U+1F436"
+		]
+	},
+	{
+		"name": "pig",
+		"unicodes": [
+			"U+1F437"
+		]
+	},
+	{
+		"name": "frog",
+		"unicodes": [
+			"U+1F438"
+		]
+	},
+	{
+		"name": "hamster",
+		"unicodes": [
+			"U+1F439"
+		]
+	},
+	{
+		"name": "wolf",
+		"unicodes": [
+			"U+1F43A"
+		]
+	},
+	{
+		"name": "bear",
+		"unicodes": [
+			"U+1F43B"
+		]
+	},
+	{
+		"name": "panda_face",
+		"unicodes": [
+			"U+1F43C"
+		]
+	},
+	{
+		"name": "pig_nose",
+		"unicodes": [
+			"U+1F43D"
+		]
+	},
+	{
+		"name": "feet",
+		"unicodes": [
+			"U+1F43E"
+		]
+	},
+	{
+		"name": "eyes",
+		"unicodes": [
+			"U+1F440"
+		]
+	},
+	{
+		"name": "ear",
+		"unicodes": [
+			"U+1F442"
+		]
+	},
+	{
+		"name": "nose",
+		"unicodes": [
+			"U+1F443"
+		]
+	},
+	{
+		"name": "lips",
+		"unicodes": [
+			"U+1F444"
+		]
+	},
+	{
+		"name": "tongue",
+		"unicodes": [
+			"U+1F445"
+		]
+	},
+	{
+		"name": "point_up_2",
+		"unicodes": [
+			"U+1F446"
+		]
+	},
+	{
+		"name": "point_down",
+		"unicodes": [
+			"U+1F447"
+		]
+	},
+	{
+		"name": "point_left",
+		"unicodes": [
+			"U+1F448"
+		]
+	},
+	{
+		"name": "point_right",
+		"unicodes": [
+			"U+1F449"
+		]
+	},
+	{
+		"name": "punch",
+		"unicodes": [
+			"U+1F44A"
+		]
+	},
+	{
+		"name": "wave",
+		"unicodes": [
+			"U+1F44B"
+		]
+	},
+	{
+		"name": "ok_hand",
+		"unicodes": [
+			"U+1F44C"
+		]
+	},
+	{
+		"name": "thumbsup",
+		"unicodes": [
+			"U+1F44D"
+		]
+	},
+	{
+		"name": "thumbsdown",
+		"unicodes": [
+			"U+1F44E"
+		]
+	},
+	{
+		"name": "clap",
+		"unicodes": [
+			"U+1F44F"
+		]
+	},
+	{
+		"name": "open_hands",
+		"unicodes": [
+			"U+1F450"
+		]
+	},
+	{
+		"name": "crown",
+		"unicodes": [
+			"U+1F451"
+		]
+	},
+	{
+		"name": "womans_hat",
+		"unicodes": [
+			"U+1F452"
+		]
+	},
+	{
+		"name": "eyeglasses",
+		"unicodes": [
+			"U+1F453"
+		]
+	},
+	{
+		"name": "necktie",
+		"unicodes": [
+			"U+1F454"
+		]
+	},
+	{
+		"name": "shirt",
+		"unicodes": [
+			"U+1F455"
+		]
+	},
+	{
+		"name": "jeans",
+		"unicodes": [
+			"U+1F456"
+		]
+	},
+	{
+		"name": "dress",
+		"unicodes": [
+			"U+1F457"
+		]
+	},
+	{
+		"name": "kimono",
+		"unicodes": [
+			"U+1F458"
+		]
+	},
+	{
+		"name": "bikini",
+		"unicodes": [
+			"U+1F459"
+		]
+	},
+	{
+		"name": "womans_clothes",
+		"unicodes": [
+			"U+1F45A"
+		]
+	},
+	{
+		"name": "purse",
+		"unicodes": [
+			"U+1F45B"
+		]
+	},
+	{
+		"name": "handbag",
+		"unicodes": [
+			"U+1F45C"
+		]
+	},
+	{
+		"name": "pouch",
+		"unicodes": [
+			"U+1F45D"
+		]
+	},
+	{
+		"name": "mans_shoe",
+		"unicodes": [
+			"U+1F45E"
+		]
+	},
+	{
+		"name": "athletic_shoe",
+		"unicodes": [
+			"U+1F45F"
+		]
+	},
+	{
+		"name": "high_heel",
+		"unicodes": [
+			"U+1F460"
+		]
+	},
+	{
+		"name": "sandal",
+		"unicodes": [
+			"U+1F461"
+		]
+	},
+	{
+		"name": "boot",
+		"unicodes": [
+			"U+1F462"
+		]
+	},
+	{
+		"name": "footprints",
+		"unicodes": [
+			"U+1F463"
+		]
+	},
+	{
+		"name": "bust_in_silhouette",
+		"unicodes": [
+			"U+1F464"
+		]
+	},
+	{
+		"name": "boy",
+		"unicodes": [
+			"U+1F466"
+		]
+	},
+	{
+		"name": "girl",
+		"unicodes": [
+			"U+1F467"
+		]
+	},
+	{
+		"name": "man",
+		"unicodes": [
+			"U+1F468"
+		]
+	},
+	{
+		"name": "woman",
+		"unicodes": [
+			"U+1F469"
+		]
+	},
+	{
+		"name": "family",
+		"unicodes": [
+			"U+1F46A"
+		]
+	},
+	{
+		"name": "couple",
+		"unicodes": [
+			"U+1F46B"
+		]
+	},
+	{
+		"name": "cop",
+		"unicodes": [
+			"U+1F46E"
+		]
+	},
+	{
+		"name": "dancers",
+		"unicodes": [
+			"U+1F46F"
+		]
+	},
+	{
+		"name": "bride_with_veil",
+		"unicodes": [
+			"U+1F470"
+		]
+	},
+	{
+		"name": "person_with_blond_hair",
+		"unicodes": [
+			"U+1F471"
+		]
+	},
+	{
+		"name": "man_with_gua_pi_mao",
+		"unicodes": [
+			"U+1F472"
+		]
+	},
+	{
+		"name": "man_with_turban",
+		"unicodes": [
+			"U+1F473"
+		]
+	},
+	{
+		"name": "older_man",
+		"unicodes": [
+			"U+1F474"
+		]
+	},
+	{
+		"name": "older_woman",
+		"unicodes": [
+			"U+1F475"
+		]
+	},
+	{
+		"name": "baby",
+		"unicodes": [
+			"U+1F476"
+		]
+	},
+	{
+		"name": "construction_worker",
+		"unicodes": [
+			"U+1F477"
+		]
+	},
+	{
+		"name": "princess",
+		"unicodes": [
+			"U+1F478"
+		]
+	},
+	{
+		"name": "japanese_ogre",
+		"unicodes": [
+			"U+1F479"
+		]
+	},
+	{
+		"name": "japanese_goblin",
+		"unicodes": [
+			"U+1F47A"
+		]
+	},
+	{
+		"name": "ghost",
+		"unicodes": [
+			"U+1F47B"
+		]
+	},
+	{
+		"name": "angel",
+		"unicodes": [
+			"U+1F47C"
+		]
+	},
+	{
+		"name": "alien",
+		"unicodes": [
+			"U+1F47D"
+		]
+	},
+	{
+		"name": "space_invader",
+		"unicodes": [
+			"U+1F47E"
+		]
+	},
+	{
+		"name": "imp",
+		"unicodes": [
+			"U+1F47F"
+		]
+	},
+	{
+		"name": "skull",
+		"unicodes": [
+			"U+1F480"
+		]
+	},
+	{
+		"name": "information_desk_person",
+		"unicodes": [
+			"U+1F481"
+		]
+	},
+	{
+		"name": "guardsman",
+		"unicodes": [
+			"U+1F482"
+		]
+	},
+	{
+		"name": "dancer",
+		"unicodes": [
+			"U+1F483"
+		]
+	},
+	{
+		"name": "lipstick",
+		"unicodes": [
+			"U+1F484"
+		]
+	},
+	{
+		"name": "nail_care",
+		"unicodes": [
+			"U+1F485"
+		]
+	},
+	{
+		"name": "massage",
+		"unicodes": [
+			"U+1F486"
+		]
+	},
+	{
+		"name": "haircut",
+		"unicodes": [
+			"U+1F487"
+		]
+	},
+	{
+		"name": "barber",
+		"unicodes": [
+			"U+1F488"
+		]
+	},
+	{
+		"name": "syringe",
+		"unicodes": [
+			"U+1F489"
+		]
+	},
+	{
+		"name": "pill",
+		"unicodes": [
+			"U+1F48A"
+		]
+	},
+	{
+		"name": "kiss",
+		"unicodes": [
+			"U+1F48B"
+		]
+	},
+	{
+		"name": "love_letter",
+		"unicodes": [
+			"U+1F48C"
+		]
+	},
+	{
+		"name": "ring",
+		"unicodes": [
+			"U+1F48D"
+		]
+	},
+	{
+		"name": "gem",
+		"unicodes": [
+			"U+1F48E"
+		]
+	},
+	{
+		"name": "couplekiss",
+		"unicodes": [
+			"U+1F48F"
+		]
+	},
+	{
+		"name": "bouquet",
+		"unicodes": [
+			"U+1F490"
+		]
+	},
+	{
+		"name": "couple_with_heart",
+		"unicodes": [
+			"U+1F491"
+		]
+	},
+	{
+		"name": "wedding",
+		"unicodes": [
+			"U+1F492"
+		]
+	},
+	{
+		"name": "heartbeat",
+		"unicodes": [
+			"U+1F493"
+		]
+	},
+	{
+		"name": "broken_heart",
+		"unicodes": [
+			"U+1F494"
+		]
+	},
+	{
+		"name": "two_hearts",
+		"unicodes": [
+			"U+1F495"
+		]
+	},
+	{
+		"name": "sparkling_heart",
+		"unicodes": [
+			"U+1F496"
+		]
+	},
+	{
+		"name": "heartpulse",
+		"unicodes": [
+			"U+1F497"
+		]
+	},
+	{
+		"name": "cupid",
+		"unicodes": [
+			"U+1F498"
+		]
+	},
+	{
+		"name": "blue_heart",
+		"unicodes": [
+			"U+1F499"
+		]
+	},
+	{
+		"name": "green_heart",
+		"unicodes": [
+			"U+1F49A"
+		]
+	},
+	{
+		"name": "yellow_heart",
+		"unicodes": [
+			"U+1F49B"
+		]
+	},
+	{
+		"name": "purple_heart",
+		"unicodes": [
+			"U+1F49C"
+		]
+	},
+	{
+		"name": "gift_heart",
+		"unicodes": [
+			"U+1F49D"
+		]
+	},
+	{
+		"name": "revolving_hearts",
+		"unicodes": [
+			"U+1F49E"
+		]
+	},
+	{
+		"name": "heart_decoration",
+		"unicodes": [
+			"U+1F49F"
+		]
+	},
+	{
+		"name": "diamond_shape_with_a_dot_inside",
+		"unicodes": [
+			"U+1F4A0"
+		]
+	},
+	{
+		"name": "bulb",
+		"unicodes": [
+			"U+1F4A1"
+		]
+	},
+	{
+		"name": "anger",
+		"unicodes": [
+			"U+1F4A2"
+		]
+	},
+	{
+		"name": "bomb",
+		"unicodes": [
+			"U+1F4A3"
+		]
+	},
+	{
+		"name": "zzz",
+		"unicodes": [
+			"U+1F4A4"
+		]
+	},
+	{
+		"name": "boom",
+		"unicodes": [
+			"U+1F4A5"
+		]
+	},
+	{
+		"name": "sweat_drops",
+		"unicodes": [
+			"U+1F4A6"
+		]
+	},
+	{
+		"name": "droplet",
+		"unicodes": [
+			"U+1F4A7"
+		]
+	},
+	{
+		"name": "dash",
+		"unicodes": [
+			"U+1F4A8"
+		]
+	},
+	{
+		"name": "poop",
+		"unicodes": [
+			"U+1F4A9"
+		]
+	},
+	{
+		"name": "muscle",
+		"unicodes": [
+			"U+1F4AA"
+		]
+	},
+	{
+		"name": "dizzy",
+		"unicodes": [
+			"U+1F4AB"
+		]
+	},
+	{
+		"name": "speech_balloon",
+		"unicodes": [
+			"U+1F4AC"
+		]
+	},
+	{
+		"name": "white_flower",
+		"unicodes": [
+			"U+1F4AE"
+		]
+	},
+	{
+		"name": "100",
+		"unicodes": [
+			"U+1F4AF"
+		]
+	},
+	{
+		"name": "moneybag",
+		"unicodes": [
+			"U+1F4B0"
+		]
+	},
+	{
+		"name": "currency_exchange",
+		"unicodes": [
+			"U+1F4B1"
+		]
+	},
+	{
+		"name": "heavy_dollar_sign",
+		"unicodes": [
+			"U+1F4B2"
+		]
+	},
+	{
+		"name": "credit_card",
+		"unicodes": [
+			"U+1F4B3"
+		]
+	},
+	{
+		"name": "yen",
+		"unicodes": [
+			"U+1F4B4"
+		]
+	},
+	{
+		"name": "dollar",
+		"unicodes": [
+			"U+1F4B5"
+		]
+	},
+	{
+		"name": "money_with_wings",
+		"unicodes": [
+			"U+1F4B8"
+		]
+	},
+	{
+		"name": "chart",
+		"unicodes": [
+			"U+1F4B9"
+		]
+	},
+	{
+		"name": "seat",
+		"unicodes": [
+			"U+1F4BA"
+		]
+	},
+	{
+		"name": "computer",
+		"unicodes": [
+			"U+1F4BB"
+		]
+	},
+	{
+		"name": "briefcase",
+		"unicodes": [
+			"U+1F4BC"
+		]
+	},
+	{
+		"name": "minidisc",
+		"unicodes": [
+			"U+1F4BD"
+		]
+	},
+	{
+		"name": "floppy_disk",
+		"unicodes": [
+			"U+1F4BE"
+		]
+	},
+	{
+		"name": "cd",
+		"unicodes": [
+			"U+1F4BF"
+		]
+	},
+	{
+		"name": "dvd",
+		"unicodes": [
+			"U+1F4C0"
+		]
+	},
+	{
+		"name": "file_folder",
+		"unicodes": [
+			"U+1F4C1"
+		]
+	},
+	{
+		"name": "open_file_folder",
+		"unicodes": [
+			"U+1F4C2"
+		]
+	},
+	{
+		"name": "page_with_curl",
+		"unicodes": [
+			"U+1F4C3"
+		]
+	},
+	{
+		"name": "page_facing_up",
+		"unicodes": [
+			"U+1F4C4"
+		]
+	},
+	{
+		"name": "date",
+		"unicodes": [
+			"U+1F4C5"
+		]
+	},
+	{
+		"name": "calendar",
+		"unicodes": [
+			"U+1F4C6"
+		]
+	},
+	{
+		"name": "card_index",
+		"unicodes": [
+			"U+1F4C7"
+		]
+	},
+	{
+		"name": "chart_with_upwards_trend",
+		"unicodes": [
+			"U+1F4C8"
+		]
+	},
+	{
+		"name": "chart_with_downwards_trend",
+		"unicodes": [
+			"U+1F4C9"
+		]
+	},
+	{
+		"name": "bar_chart",
+		"unicodes": [
+			"U+1F4CA"
+		]
+	},
+	{
+		"name": "clipboard",
+		"unicodes": [
+			"U+1F4CB"
+		]
+	},
+	{
+		"name": "pushpin",
+		"unicodes": [
+			"U+1F4CC"
+		]
+	},
+	{
+		"name": "round_pushpin",
+		"unicodes": [
+			"U+1F4CD"
+		]
+	},
+	{
+		"name": "paperclip",
+		"unicodes": [
+			"U+1F4CE"
+		]
+	},
+	{
+		"name": "straight_ruler",
+		"unicodes": [
+			"U+1F4CF"
+		]
+	},
+	{
+		"name": "triangular_ruler",
+		"unicodes": [
+			"U+1F4D0"
+		]
+	},
+	{
+		"name": "bookmark_tabs",
+		"unicodes": [
+			"U+1F4D1"
+		]
+	},
+	{
+		"name": "ledger",
+		"unicodes": [
+			"U+1F4D2"
+		]
+	},
+	{
+		"name": "notebook",
+		"unicodes": [
+			"U+1F4D3"
+		]
+	},
+	{
+		"name": "notebook_with_decorative_cover",
+		"unicodes": [
+			"U+1F4D4"
+		]
+	},
+	{
+		"name": "closed_book",
+		"unicodes": [
+			"U+1F4D5"
+		]
+	},
+	{
+		"name": "book",
+		"unicodes": [
+			"U+1F4D6"
+		]
+	},
+	{
+		"name": "green_book",
+		"unicodes": [
+			"U+1F4D7"
+		]
+	},
+	{
+		"name": "blue_book",
+		"unicodes": [
+			"U+1F4D8"
+		]
+	},
+	{
+		"name": "orange_book",
+		"unicodes": [
+			"U+1F4D9"
+		]
+	},
+	{
+		"name": "books",
+		"unicodes": [
+			"U+1F4DA"
+		]
+	},
+	{
+		"name": "name_badge",
+		"unicodes": [
+			"U+1F4DB"
+		]
+	},
+	{
+		"name": "scroll",
+		"unicodes": [
+			"U+1F4DC"
+		]
+	},
+	{
+		"name": "pencil",
+		"unicodes": [
+			"U+1F4DD"
+		]
+	},
+	{
+		"name": "telephone_receiver",
+		"unicodes": [
+			"U+1F4DE"
+		]
+	},
+	{
+		"name": "pager",
+		"unicodes": [
+			"U+1F4DF"
+		]
+	},
+	{
+		"name": "fax",
+		"unicodes": [
+			"U+1F4E0"
+		]
+	},
+	{
+		"name": "satellite",
+		"unicodes": [
+			"U+1F4E1"
+		]
+	},
+	{
+		"name": "loudspeaker",
+		"unicodes": [
+			"U+1F4E2"
+		]
+	},
+	{
+		"name": "mega",
+		"unicodes": [
+			"U+1F4E3"
+		]
+	},
+	{
+		"name": "outbox_tray",
+		"unicodes": [
+			"U+1F4E4"
+		]
+	},
+	{
+		"name": "inbox_tray",
+		"unicodes": [
+			"U+1F4E5"
+		]
+	},
+	{
+		"name": "package",
+		"unicodes": [
+			"U+1F4E6"
+		]
+	},
+	{
+		"name": "e-mail",
+		"unicodes": [
+			"U+1F4E7"
+		]
+	},
+	{
+		"name": "incoming_envelope",
+		"unicodes": [
+			"U+1F4E8"
+		]
+	},
+	{
+		"name": "envelope_with_arrow",
+		"unicodes": [
+			"U+1F4E9"
+		]
+	},
+	{
+		"name": "mailbox_closed",
+		"unicodes": [
+			"U+1F4EA"
+		]
+	},
+	{
+		"name": "mailbox",
+		"unicodes": [
+			"U+1F4EB"
+		]
+	},
+	{
+		"name": "postbox",
+		"unicodes": [
+			"U+1F4EE"
+		]
+	},
+	{
+		"name": "newspaper",
+		"unicodes": [
+			"U+1F4F0"
+		]
+	},
+	{
+		"name": "iphone",
+		"unicodes": [
+			"U+1F4F1"
+		]
+	},
+	{
+		"name": "calling",
+		"unicodes": [
+			"U+1F4F2"
+		]
+	},
+	{
+		"name": "vibration_mode",
+		"unicodes": [
+			"U+1F4F3"
+		]
+	},
+	{
+		"name": "mobile_phone_off",
+		"unicodes": [
+			"U+1F4F4"
+		]
+	},
+	{
+		"name": "signal_strength",
+		"unicodes": [
+			"U+1F4F6"
+		]
+	},
+	{
+		"name": "camera",
+		"unicodes": [
+			"U+1F4F7"
+		]
+	},
+	{
+		"name": "video_camera",
+		"unicodes": [
+			"U+1F4F9"
+		]
+	},
+	{
+		"name": "tv",
+		"unicodes": [
+			"U+1F4FA"
+		]
+	},
+	{
+		"name": "radio",
+		"unicodes": [
+			"U+1F4FB"
+		]
+	},
+	{
+		"name": "vhs",
+		"unicodes": [
+			"U+1F4FC"
+		]
+	},
+	{
+		"name": "arrows_clockwise",
+		"unicodes": [
+			"U+1F503"
+		]
+	},
+	{
+		"name": "loud_sound",
+		"unicodes": [
+			"U+1F50A"
+		]
+	},
+	{
+		"name": "battery",
+		"unicodes": [
+			"U+1F50B"
+		]
+	},
+	{
+		"name": "electric_plug",
+		"unicodes": [
+			"U+1F50C"
+		]
+	},
+	{
+		"name": "mag",
+		"unicodes": [
+			"U+1F50D"
+		]
+	},
+	{
+		"name": "mag_right",
+		"unicodes": [
+			"U+1F50E"
+		]
+	},
+	{
+		"name": "lock_with_ink_pen",
+		"unicodes": [
+			"U+1F50F"
+		]
+	},
+	{
+		"name": "closed_lock_with_key",
+		"unicodes": [
+			"U+1F510"
+		]
+	},
+	{
+		"name": "key",
+		"unicodes": [
+			"U+1F511"
+		]
+	},
+	{
+		"name": "lock",
+		"unicodes": [
+			"U+1F512"
+		]
+	},
+	{
+		"name": "unlock",
+		"unicodes": [
+			"U+1F513"
+		]
+	},
+	{
+		"name": "bell",
+		"unicodes": [
+			"U+1F514"
+		]
+	},
+	{
+		"name": "bookmark",
+		"unicodes": [
+			"U+1F516"
+		]
+	},
+	{
+		"name": "link",
+		"unicodes": [
+			"U+1F517"
+		]
+	},
+	{
+		"name": "radio_button",
+		"unicodes": [
+			"U+1F518"
+		]
+	},
+	{
+		"name": "back",
+		"unicodes": [
+			"U+1F519"
+		]
+	},
+	{
+		"name": "end",
+		"unicodes": [
+			"U+1F51A"
+		]
+	},
+	{
+		"name": "on",
+		"unicodes": [
+			"U+1F51B"
+		]
+	},
+	{
+		"name": "soon",
+		"unicodes": [
+			"U+1F51C"
+		]
+	},
+	{
+		"name": "top",
+		"unicodes": [
+			"U+1F51D"
+		]
+	},
+	{
+		"name": "underage",
+		"unicodes": [
+			"U+1F51E"
+		]
+	},
+	{
+		"name": "keycap_ten",
+		"unicodes": [
+			"U+1F51F"
+		]
+	},
+	{
+		"name": "capital_abcd",
+		"unicodes": [
+			"U+1F520"
+		]
+	},
+	{
+		"name": "abcd",
+		"unicodes": [
+			"U+1F521"
+		]
+	},
+	{
+		"name": "1234",
+		"unicodes": [
+			"U+1F522"
+		]
+	},
+	{
+		"name": "symbols",
+		"unicodes": [
+			"U+1F523"
+		]
+	},
+	{
+		"name": "abc",
+		"unicodes": [
+			"U+1F524"
+		]
+	},
+	{
+		"name": "fire",
+		"unicodes": [
+			"U+1F525"
+		]
+	},
+	{
+		"name": "flashlight",
+		"unicodes": [
+			"U+1F526"
+		]
+	},
+	{
+		"name": "wrench",
+		"unicodes": [
+			"U+1F527"
+		]
+	},
+	{
+		"name": "hammer",
+		"unicodes": [
+			"U+1F528"
+		]
+	},
+	{
+		"name": "nut_and_bolt",
+		"unicodes": [
+			"U+1F529"
+		]
+	},
+	{
+		"name": "knife",
+		"unicodes": [
+			"U+1F52A"
+		]
+	},
+	{
+		"name": "gun",
+		"unicodes": [
+			"U+1F52B"
+		]
+	},
+	{
+		"name": "crystal_ball",
+		"unicodes": [
+			"U+1F52E"
+		]
+	},
+	{
+		"name": "six_pointed_star",
+		"unicodes": [
+			"U+1F52F"
+		]
+	},
+	{
+		"name": "beginner",
+		"unicodes": [
+			"U+1F530"
+		]
+	},
+	{
+		"name": "trident",
+		"unicodes": [
+			"U+1F531"
+		]
+	},
+	{
+		"name": "black_square_button",
+		"unicodes": [
+			"U+1F532"
+		]
+	},
+	{
+		"name": "white_square_button",
+		"unicodes": [
+			"U+1F533"
+		]
+	},
+	{
+		"name": "red_circle",
+		"unicodes": [
+			"U+1F534"
+		]
+	},
+	{
+		"name": "large_blue_circle",
+		"unicodes": [
+			"U+1F535"
+		]
+	},
+	{
+		"name": "large_orange_diamond",
+		"unicodes": [
+			"U+1F536"
+		]
+	},
+	{
+		"name": "large_blue_diamond",
+		"unicodes": [
+			"U+1F537"
+		]
+	},
+	{
+		"name": "small_orange_diamond",
+		"unicodes": [
+			"U+1F538"
+		]
+	},
+	{
+		"name": "small_blue_diamond",
+		"unicodes": [
+			"U+1F539"
+		]
+	},
+	{
+		"name": "small_red_triangle",
+		"unicodes": [
+			"U+1F53A"
+		]
+	},
+	{
+		"name": "small_red_triangle_down",
+		"unicodes": [
+			"U+1F53B"
+		]
+	},
+	{
+		"name": "arrow_up_small",
+		"unicodes": [
+			"U+1F53C"
+		]
+	},
+	{
+		"name": "arrow_down_small",
+		"unicodes": [
+			"U+1F53D"
+		]
+	},
+	{
+		"name": "clock1",
+		"unicodes": [
+			"U+1F550"
+		]
+	},
+	{
+		"name": "clock2",
+		"unicodes": [
+			"U+1F551"
+		]
+	},
+	{
+		"name": "clock3",
+		"unicodes": [
+			"U+1F552"
+		]
+	},
+	{
+		"name": "clock4",
+		"unicodes": [
+			"U+1F553"
+		]
+	},
+	{
+		"name": "clock5",
+		"unicodes": [
+			"U+1F554"
+		]
+	},
+	{
+		"name": "clock6",
+		"unicodes": [
+			"U+1F555"
+		]
+	},
+	{
+		"name": "clock7",
+		"unicodes": [
+			"U+1F556"
+		]
+	},
+	{
+		"name": "clock8",
+		"unicodes": [
+			"U+1F557"
+		]
+	},
+	{
+		"name": "clock9",
+		"unicodes": [
+			"U+1F558"
+		]
+	},
+	{
+		"name": "clock10",
+		"unicodes": [
+			"U+1F559"
+		]
+	},
+	{
+		"name": "clock11",
+		"unicodes": [
+			"U+1F55A"
+		]
+	},
+	{
+		"name": "clock12",
+		"unicodes": [
+			"U+1F55B"
+		]
+	},
+	{
+		"name": "mount_fuji",
+		"unicodes": [
+			"U+1F5FB"
+		]
+	},
+	{
+		"name": "tokyo_tower",
+		"unicodes": [
+			"U+1F5FC"
+		]
+	},
+	{
+		"name": "statue_of_liberty",
+		"unicodes": [
+			"U+1F5FD"
+		]
+	},
+	{
+		"name": "japan",
+		"unicodes": [
+			"U+1F5FE"
+		]
+	},
+	{
+		"name": "moyai",
+		"unicodes": [
+			"U+1F5FF"
+		]
+	},
+	{
+		"name": "grin",
+		"unicodes": [
+			"U+1F601"
+		]
+	},
+	{
+		"name": "joy",
+		"unicodes": [
+			"U+1F602"
+		]
+	},
+	{
+		"name": "smiley",
+		"unicodes": [
+			"U+1F603"
+		]
+	},
+	{
+		"name": "smile",
+		"unicodes": [
+			"U+1F604"
+		]
+	},
+	{
+		"name": "sweat_smile",
+		"unicodes": [
+			"U+1F605"
+		]
+	},
+	{
+		"name": "laughing",
+		"unicodes": [
+			"U+1F606"
+		]
+	},
+	{
+		"name": "wink",
+		"unicodes": [
+			"U+1F609"
+		]
+	},
+	{
+		"name": "blush",
+		"unicodes": [
+			"U+1F60A"
+		]
+	},
+	{
+		"name": "yum",
+		"unicodes": [
+			"U+1F60B"
+		]
+	},
+	{
+		"name": "relieved",
+		"unicodes": [
+			"U+1F60C"
+		]
+	},
+	{
+		"name": "heart_eyes",
+		"unicodes": [
+			"U+1F60D"
+		]
+	},
+	{
+		"name": "smirk",
+		"unicodes": [
+			"U+1F60F"
+		]
+	},
+	{
+		"name": "unamused",
+		"unicodes": [
+			"U+1F612"
+		]
+	},
+	{
+		"name": "sweat",
+		"unicodes": [
+			"U+1F613"
+		]
+	},
+	{
+		"name": "pensive",
+		"unicodes": [
+			"U+1F614"
+		]
+	},
+	{
+		"name": "confounded",
+		"unicodes": [
+			"U+1F616"
+		]
+	},
+	{
+		"name": "kissing_heart",
+		"unicodes": [
+			"U+1F618"
+		]
+	},
+	{
+		"name": "kissing_closed_eyes",
+		"unicodes": [
+			"U+1F61A"
+		]
+	},
+	{
+		"name": "stuck_out_tongue_winking_eye",
+		"unicodes": [
+			"U+1F61C"
+		]
+	},
+	{
+		"name": "stuck_out_tongue_closed_eyes",
+		"unicodes": [
+			"U+1F61D"
+		]
+	},
+	{
+		"name": "disappointed",
+		"unicodes": [
+			"U+1F61E"
+		]
+	},
+	{
+		"name": "angry",
+		"unicodes": [
+			"U+1F620"
+		]
+	},
+	{
+		"name": "rage",
+		"unicodes": [
+			"U+1F621"
+		]
+	},
+	{
+		"name": "cry",
+		"unicodes": [
+			"U+1F622"
+		]
+	},
+	{
+		"name": "persevere",
+		"unicodes": [
+			"U+1F623"
+		]
+	},
+	{
+		"name": "triumph",
+		"unicodes": [
+			"U+1F624"
+		]
+	},
+	{
+		"name": "disappointed_relieved",
+		"unicodes": [
+			"U+1F625"
+		]
+	},
+	{
+		"name": "fearful",
+		"unicodes": [
+			"U+1F628"
+		]
+	},
+	{
+		"name": "weary",
+		"unicodes": [
+			"U+1F629"
+		]
+	},
+	{
+		"name": "sleepy",
+		"unicodes": [
+			"U+1F62A"
+		]
+	},
+	{
+		"name": "tired_face",
+		"unicodes": [
+			"U+1F62B"
+		]
+	},
+	{
+		"name": "sob",
+		"unicodes": [
+			"U+1F62D"
+		]
+	},
+	{
+		"name": "cold_sweat",
+		"unicodes": [
+			"U+1F630"
+		]
+	},
+	{
+		"name": "scream",
+		"unicodes": [
+			"U+1F631"
+		]
+	},
+	{
+		"name": "astonished",
+		"unicodes": [
+			"U+1F632"
+		]
+	},
+	{
+		"name": "flushed",
+		"unicodes": [
+			"U+1F633"
+		]
+	},
+	{
+		"name": "dizzy_face",
+		"unicodes": [
+			"U+1F635"
+		]
+	},
+	{
+		"name": "mask",
+		"unicodes": [
+			"U+1F637"
+		]
+	},
+	{
+		"name": "smile_cat",
+		"unicodes": [
+			"U+1F638"
+		]
+	},
+	{
+		"name": "joy_cat",
+		"unicodes": [
+			"U+1F639"
+		]
+	},
+	{
+		"name": "smiley_cat",
+		"unicodes": [
+			"U+1F63A"
+		]
+	},
+	{
+		"name": "heart_eyes_cat",
+		"unicodes": [
+			"U+1F63B"
+		]
+	},
+	{
+		"name": "smirk_cat",
+		"unicodes": [
+			"U+1F63C"
+		]
+	},
+	{
+		"name": "kissing_cat",
+		"unicodes": [
+			"U+1F63D"
+		]
+	},
+	{
+		"name": "pouting_cat",
+		"unicodes": [
+			"U+1F63E"
+		]
+	},
+	{
+		"name": "crying_cat_face",
+		"unicodes": [
+			"U+1F63F"
+		]
+	},
+	{
+		"name": "scream_cat",
+		"unicodes": [
+			"U+1F640"
+		]
+	},
+	{
+		"name": "no_good",
+		"unicodes": [
+			"U+1F645"
+		]
+	},
+	{
+		"name": "ok_woman",
+		"unicodes": [
+			"U+1F646"
+		]
+	},
+	{
+		"name": "bow",
+		"unicodes": [
+			"U+1F647"
+		]
+	},
+	{
+		"name": "see_no_evil",
+		"unicodes": [
+			"U+1F648"
+		]
+	},
+	{
+		"name": "hear_no_evil",
+		"unicodes": [
+			"U+1F649"
+		]
+	},
+	{
+		"name": "speak_no_evil",
+		"unicodes": [
+			"U+1F64A"
+		]
+	},
+	{
+		"name": "raising_hand",
+		"unicodes": [
+			"U+1F64B"
+		]
+	},
+	{
+		"name": "raised_hands",
+		"unicodes": [
+			"U+1F64C"
+		]
+	},
+	{
+		"name": "person_frowning",
+		"unicodes": [
+			"U+1F64D"
+		]
+	},
+	{
+		"name": "person_with_pouting_face",
+		"unicodes": [
+			"U+1F64E"
+		]
+	},
+	{
+		"name": "pray",
+		"unicodes": [
+			"U+1F64F"
+		]
+	},
+	{
+		"name": "rocket",
+		"unicodes": [
+			"U+1F680"
+		]
+	},
+	{
+		"name": "railway_car",
+		"unicodes": [
+			"U+1F683"
+		]
+	},
+	{
+		"name": "bullettrain_side",
+		"unicodes": [
+			"U+1F684"
+		]
+	},
+	{
+		"name": "bullettrain_front",
+		"unicodes": [
+			"U+1F685"
+		]
+	},
+	{
+		"name": "metro",
+		"unicodes": [
+			"U+1F687"
+		]
+	},
+	{
+		"name": "station",
+		"unicodes": [
+			"U+1F689"
+		]
+	},
+	{
+		"name": "bus",
+		"unicodes": [
+			"U+1F68C"
+		]
+	},
+	{
+		"name": "busstop",
+		"unicodes": [
+			"U+1F68F"
+		]
+	},
+	{
+		"name": "ambulance",
+		"unicodes": [
+			"U+1F691"
+		]
+	},
+	{
+		"name": "fire_engine",
+		"unicodes": [
+			"U+1F692"
+		]
+	},
+	{
+		"name": "police_car",
+		"unicodes": [
+			"U+1F693"
+		]
+	},
+	{
+		"name": "taxi",
+		"unicodes": [
+			"U+1F695"
+		]
+	},
+	{
+		"name": "red_car",
+		"unicodes": [
+			"U+1F697"
+		]
+	},
+	{
+		"name": "blue_car",
+		"unicodes": [
+			"U+1F699"
+		]
+	},
+	{
+		"name": "truck",
+		"unicodes": [
+			"U+1F69A"
+		]
+	},
+	{
+		"name": "ship",
+		"unicodes": [
+			"U+1F6A2"
+		]
+	},
+	{
+		"name": "speedboat",
+		"unicodes": [
+			"U+1F6A4"
+		]
+	},
+	{
+		"name": "traffic_light",
+		"unicodes": [
+			"U+1F6A5"
+		]
+	},
+	{
+		"name": "construction",
+		"unicodes": [
+			"U+1F6A7"
+		]
+	},
+	{
+		"name": "rotating_light",
+		"unicodes": [
+			"U+1F6A8"
+		]
+	},
+	{
+		"name": "triangular_flag_on_post",
+		"unicodes": [
+			"U+1F6A9"
+		]
+	},
+	{
+		"name": "door",
+		"unicodes": [
+			"U+1F6AA"
+		]
+	},
+	{
+		"name": "no_entry_sign",
+		"unicodes": [
+			"U+1F6AB"
+		]
+	},
+	{
+		"name": "smoking",
+		"unicodes": [
+			"U+1F6AC"
+		]
+	},
+	{
+		"name": "no_smoking",
+		"unicodes": [
+			"U+1F6AD"
+		]
+	},
+	{
+		"name": "bike",
+		"unicodes": [
+			"U+1F6B2"
+		]
+	},
+	{
+		"name": "walking",
+		"unicodes": [
+			"U+1F6B6"
+		]
+	},
+	{
+		"name": "mens",
+		"unicodes": [
+			"U+1F6B9"
+		]
+	},
+	{
+		"name": "womens",
+		"unicodes": [
+			"U+1F6BA"
+		]
+	},
+	{
+		"name": "restroom",
+		"unicodes": [
+			"U+1F6BB"
+		]
+	},
+	{
+		"name": "baby_symbol",
+		"unicodes": [
+			"U+1F6BC"
+		]
+	},
+	{
+		"name": "toilet",
+		"unicodes": [
+			"U+1F6BD"
+		]
+	},
+	{
+		"name": "wc",
+		"unicodes": [
+			"U+1F6BE"
+		]
+	},
+	{
+		"name": "bath",
+		"unicodes": [
+			"U+1F6C0"
+		]
+	},
+	{
+		"name": "articulated_lorry",
+		"unicodes": [
+			"U+1F69B"
+		]
+	},
+	{
+		"name": "kissing_smiling_eyes",
+		"unicodes": [
+			"U+1F619"
+		]
+	},
+	{
+		"name": "pear",
+		"unicodes": [
+			"U+1F350"
+		]
+	},
+	{
+		"name": "bowtie",
+		"unicodes": []
+	},
+	{
+		"name": "bicyclist",
+		"unicodes": [
+			"U+1F6B4"
+		]
+	},
+	{
+		"name": "rabbit2",
+		"unicodes": [
+			"U+1F407"
+		]
+	},
+	{
+		"name": "clock830",
+		"unicodes": [
+			"U+1F563"
+		]
+	},
+	{
+		"name": "train",
+		"unicodes": [
+			"U+1F68B"
+		]
+	},
+	{
+		"name": "squirrel",
+		"unicodes": []
+	},
+	{
+		"name": "oncoming_automobile",
+		"unicodes": [
+			"U+1F698"
+		]
+	},
+	{
+		"name": "expressionless",
+		"unicodes": [
+			"U+1F611"
+		]
+	},
+	{
+		"name": "smiling_imp",
+		"unicodes": [
+			"U+1F608"
+		]
+	},
+	{
+		"name": "frowning",
+		"unicodes": [
+			"U+1F626"
+		]
+	},
+	{
+		"name": "no_mouth",
+		"unicodes": [
+			"U+1F636"
+		]
+	},
+	{
+		"name": "baby_bottle",
+		"unicodes": [
+			"U+1F37C"
+		]
+	},
+	{
+		"name": "non-potable_water",
+		"unicodes": [
+			"U+1F6B1"
+		]
+	},
+	{
+		"name": "open_mouth",
+		"unicodes": [
+			"U+1F62E"
+		]
+	},
+	{
+		"name": "last_quarter_moon_with_face",
+		"unicodes": [
+			"U+1F31C"
+		]
+	},
+	{
+		"name": "do_not_litter",
+		"unicodes": [
+			"U+1F6AF"
+		]
+	},
+	{
+		"name": "sunglasses",
+		"unicodes": [
+			"U+1F60E"
+		]
+	},
+	{
+		"name": "metal",
+		"unicodes": []
+	},
+	{
+		"name": "loop",
+		"unicodes": [
+			"U+27BF"
+		]
+	},
+	{
+		"name": "last_quarter_moon",
+		"unicodes": [
+			"U+1F317"
+		]
+	},
+	{
+		"name": "grinning",
+		"unicodes": [
+			"U+1F600"
+		]
+	},
+	{
+		"name": "euro",
+		"unicodes": [
+			"U+1F4B6"
+		]
+	},
+	{
+		"name": "clock330",
+		"unicodes": [
+			"U+1F55E"
+		]
+	},
+	{
+		"name": "octocat",
+		"unicodes": []
+	},
+	{
+		"name": "telescope",
+		"unicodes": [
+			"U+1F52D"
+		]
+	},
+	{
+		"name": "globe_with_meridians",
+		"unicodes": [
+			"U+1F310"
+		]
+	},
+	{
+		"name": "postal_horn",
+		"unicodes": [
+			"U+1F4EF"
+		]
+	},
+	{
+		"name": "stuck_out_tongue",
+		"unicodes": [
+			"U+1F61B"
+		]
+	},
+	{
+		"name": "shipit",
+		"unicodes": []
+	},
+	{
+		"name": "clock1030",
+		"unicodes": [
+			"U+1F565"
+		]
+	},
+	{
+		"name": "pound",
+		"unicodes": [
+			"U+1F4B7"
+		]
+	},
+	{
+		"name": "two_men_holding_hands",
+		"unicodes": [
+			"U+1F46C"
+		]
+	},
+	{
+		"name": "tiger2",
+		"unicodes": [
+			"U+1F405"
+		]
+	},
+	{
+		"name": "anguished",
+		"unicodes": [
+			"U+1F627"
+		]
+	},
+	{
+		"name": "vertical_traffic_light",
+		"unicodes": [
+			"U+1F6A6"
+		]
+	},
+	{
+		"name": "confused",
+		"unicodes": [
+			"U+1F615"
+		]
+	},
+	{
+		"name": "repeat",
+		"unicodes": [
+			"U+1F501"
+		]
+	},
+	{
+		"name": "oncoming_police_car",
+		"unicodes": [
+			"U+1F694"
+		]
+	},
+	{
+		"name": "tram",
+		"unicodes": [
+			"U+1F68A"
+		]
+	},
+	{
+		"name": "dragon",
+		"unicodes": [
+			"U+1F409"
+		]
+	},
+	{
+		"name": "earth_americas",
+		"unicodes": [
+			"U+1F30E"
+		]
+	},
+	{
+		"name": "rugby_football",
+		"unicodes": [
+			"U+1F3C9"
+		]
+	},
+	{
+		"name": "left_luggage",
+		"unicodes": [
+			"U+1F6C5"
+		]
+	},
+	{
+		"name": "sound",
+		"unicodes": [
+			"U+1F509"
+		]
+	},
+	{
+		"name": "clock630",
+		"unicodes": [
+			"U+1F561"
+		]
+	},
+	{
+		"name": "dromedary_camel",
+		"unicodes": [
+			"U+1F42A"
+		]
+	},
+	{
+		"name": "oncoming_bus",
+		"unicodes": [
+			"U+1F68D"
+		]
+	},
+	{
+		"name": "horse_racing",
+		"unicodes": [
+			"U+1F3C7"
+		]
+	},
+	{
+		"name": "finnadie",
+		"unicodes": []
+	},
+	{
+		"name": "rooster",
+		"unicodes": [
+			"U+1F413"
+		]
+	},
+	{
+		"name": "rowboat",
+		"unicodes": [
+			"U+1F6A3"
+		]
+	},
+	{
+		"name": "customs",
+		"unicodes": [
+			"U+1F6C3"
+		]
+	},
+	{
+		"name": "repeat_one",
+		"unicodes": [
+			"U+1F502"
+		]
+	},
+	{
+		"name": "waxing_crescent_moon",
+		"unicodes": [
+			"U+1F312"
+		]
+	},
+	{
+		"name": "mountain_railway",
+		"unicodes": [
+			"U+1F69E"
+		]
+	},
+	{
+		"name": "clock930",
+		"unicodes": [
+			"U+1F564"
+		]
+	},
+	{
+		"name": "put_litter_in_its_place",
+		"unicodes": [
+			"U+1F6AE"
+		]
+	},
+	{
+		"name": "arrows_counterclockwise",
+		"unicodes": [
+			"U+1F504"
+		]
+	},
+	{
+		"name": "clock130",
+		"unicodes": [
+			"U+1F55C"
+		]
+	},
+	{
+		"name": "goat",
+		"unicodes": [
+			"U+1F410"
+		]
+	},
+	{
+		"name": "pig2",
+		"unicodes": [
+			"U+1F416"
+		]
+	},
+	{
+		"name": "innocent",
+		"unicodes": [
+			"U+1F607"
+		]
+	},
+	{
+		"name": "no_bicycles",
+		"unicodes": [
+			"U+1F6B3"
+		]
+	},
+	{
+		"name": "light_rail",
+		"unicodes": [
+			"U+1F688"
+		]
+	},
+	{
+		"name": "whale2",
+		"unicodes": [
+			"U+1F40B"
+		]
+	},
+	{
+		"name": "train2",
+		"unicodes": [
+			"U+1F686"
+		]
+	},
+	{
+		"name": "earth_africa",
+		"unicodes": [
+			"U+1F30D"
+		]
+	},
+	{
+		"name": "shower",
+		"unicodes": [
+			"U+1F6BF"
+		]
+	},
+	{
+		"name": "waning_gibbous_moon",
+		"unicodes": [
+			"U+1F316"
+		]
+	},
+	{
+		"name": "hurtrealbad",
+		"unicodes": []
+	},
+	{
+		"name": "steam_locomotive",
+		"unicodes": [
+			"U+1F682"
+		]
+	},
+	{
+		"name": "cat2",
+		"unicodes": [
+			"U+1F408"
+		]
+	},
+	{
+		"name": "tractor",
+		"unicodes": [
+			"U+1F69C"
+		]
+	},
+	{
+		"name": "goberserk",
+		"unicodes": []
+	},
+	{
+		"name": "thought_balloon",
+		"unicodes": [
+			"U+1F4AD"
+		]
+	},
+	{
+		"name": "two_women_holding_hands",
+		"unicodes": [
+			"U+1F46D"
+		]
+	},
+	{
+		"name": "full_moon_with_face",
+		"unicodes": [
+			"U+1F31D"
+		]
+	},
+	{
+		"name": "mouse2",
+		"unicodes": [
+			"U+1F401"
+		]
+	},
+	{
+		"name": "clock430",
+		"unicodes": [
+			"U+1F55F"
+		]
+	},
+	{
+		"name": "worried",
+		"unicodes": [
+			"U+1F61F"
+		]
+	},
+	{
+		"name": "rat",
+		"unicodes": [
+			"U+1F400"
+		]
+	},
+	{
+		"name": "ram",
+		"unicodes": [
+			"U+1F40F"
+		]
+	},
+	{
+		"name": "dog2",
+		"unicodes": [
+			"U+1F415"
+		]
+	},
+	{
+		"name": "kissing",
+		"unicodes": [
+			"U+1F617"
+		]
+	},
+	{
+		"name": "helicopter",
+		"unicodes": [
+			"U+1F681"
+		]
+	},
+	{
+		"name": "clock1130",
+		"unicodes": [
+			"U+1F566"
+		]
+	},
+	{
+		"name": "rage4",
+		"unicodes": []
+	},
+	{
+		"name": "rage3",
+		"unicodes": []
+	},
+	{
+		"name": "rage2",
+		"unicodes": []
+	},
+	{
+		"name": "rage1",
+		"unicodes": []
+	},
+	{
+		"name": "no_mobile_phones",
+		"unicodes": [
+			"U+1F4F5"
+		]
+	},
+	{
+		"name": "european_post_office",
+		"unicodes": [
+			"U+1F3E4"
+		]
+	},
+	{
+		"name": "ox",
+		"unicodes": [
+			"U+1F402"
+		]
+	},
+	{
+		"name": "mountain_cableway",
+		"unicodes": [
+			"U+1F6A0"
+		]
+	},
+	{
+		"name": "sleeping",
+		"unicodes": [
+			"U+1F634"
+		]
+	},
+	{
+		"name": "cow2",
+		"unicodes": [
+			"U+1F404"
+		]
+	},
+	{
+		"name": "godmode",
+		"unicodes": []
+	},
+	{
+		"name": "minibus",
+		"unicodes": [
+			"U+1F690"
+		]
+	},
+	{
+		"name": "clock730",
+		"unicodes": [
+			"U+1F562"
+		]
+	},
+	{
+		"name": "aerial_tramway",
+		"unicodes": [
+			"U+1F6A1"
+		]
+	},
+	{
+		"name": "speaker",
+		"unicodes": [
+			"U+1F508"
+		]
+	},
+	{
+		"name": "no_bell",
+		"unicodes": [
+			"U+1F515"
+		]
+	},
+	{
+		"name": "mailbox_with_mail",
+		"unicodes": [
+			"U+1F4EC"
+		]
+	},
+	{
+		"name": "no_pedestrians",
+		"unicodes": [
+			"U+1F6B7"
+		]
+	},
+	{
+		"name": "microscope",
+		"unicodes": [
+			"U+1F52C"
+		]
+	},
+	{
+		"name": "neckbeard",
+		"unicodes": []
+	},
+	{
+		"name": "bathtub",
+		"unicodes": [
+			"U+1F6C1"
+		]
+	},
+	{
+		"name": "suspension_railway",
+		"unicodes": [
+			"U+1F69F"
+		]
+	},
+	{
+		"name": "trollface",
+		"unicodes": []
+	},
+	{
+		"name": "crocodile",
+		"unicodes": [
+			"U+1F40A"
+		]
+	},
+	{
+		"name": "mountain_bicyclist",
+		"unicodes": [
+			"U+1F6B5"
+		]
+	},
+	{
+		"name": "waning_crescent_moon",
+		"unicodes": [
+			"U+1F318"
+		]
+	},
+	{
+		"name": "monorail",
+		"unicodes": [
+			"U+1F69D"
+		]
+	},
+	{
+		"name": "children_crossing",
+		"unicodes": [
+			"U+1F6B8"
+		]
+	},
+	{
+		"name": "clock230",
+		"unicodes": [
+			"U+1F55D"
+		]
+	},
+	{
+		"name": "busts_in_silhouette",
+		"unicodes": [
+			"U+1F465"
+		]
+	},
+	{
+		"name": "mailbox_with_no_mail",
+		"unicodes": [
+			"U+1F4ED"
+		]
+	},
+	{
+		"name": "leopard",
+		"unicodes": [
+			"U+1F406"
+		]
+	},
+	{
+		"name": "suspect",
+		"unicodes": []
+	},
+	{
+		"name": "deciduous_tree",
+		"unicodes": [
+			"U+1F333"
+		]
+	},
+	{
+		"name": "oncoming_taxi",
+		"unicodes": [
+			"U+1F696"
+		]
+	},
+	{
+		"name": "fu",
+		"unicodes": []
+	},
+	{
+		"name": "lemon",
+		"unicodes": [
+			"U+1F34B"
+		]
+	},
+	{
+		"name": "mute",
+		"unicodes": [
+			"U+1F507"
+		]
+	},
+	{
+		"name": "baggage_claim",
+		"unicodes": [
+			"U+1F6C4"
+		]
+	},
+	{
+		"name": "twisted_rightwards_arrows",
+		"unicodes": [
+			"U+1F500"
+		]
+	},
+	{
+		"name": "feelsgood",
+		"unicodes": []
+	},
+	{
+		"name": "sun_with_face",
+		"unicodes": [
+			"U+1F31E"
+		]
+	},
+	{
+		"name": "trolleybus",
+		"unicodes": [
+			"U+1F68E"
+		]
+	},
+	{
+		"name": "evergreen_tree",
+		"unicodes": [
+			"U+1F332"
+		]
+	},
+	{
+		"name": "passport_control",
+		"unicodes": [
+			"U+1F6C2"
+		]
+	},
+	{
+		"name": "new_moon_with_face",
+		"unicodes": [
+			"U+1F31A"
+		]
+	},
+	{
+		"name": "potable_water",
+		"unicodes": [
+			"U+1F6B0"
+		]
+	},
+	{
+		"name": "high_brightness",
+		"unicodes": [
+			"U+1F506"
+		]
+	},
+	{
+		"name": "low_brightness",
+		"unicodes": [
+			"U+1F505"
+		]
+	},
+	{
+		"name": "clock530",
+		"unicodes": [
+			"U+1F560"
+		]
+	},
+	{
+		"name": "hushed",
+		"unicodes": [
+			"U+1F62F"
+		]
+	},
+	{
+		"name": "grimacing",
+		"unicodes": [
+			"U+1F62C"
+		]
+	},
+	{
+		"name": "water_buffalo",
+		"unicodes": [
+			"U+1F403"
+		]
+	},
+	{
+		"name": "neutral_face",
+		"unicodes": [
+			"U+1F610"
+		]
+	},
+	{
+		"name": "clock1230",
+		"unicodes": [
+			"U+1F567"
+		]
+	}
+]
